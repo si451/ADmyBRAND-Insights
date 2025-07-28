@@ -59,18 +59,18 @@ export const metrics: MetricData[] = [
 ];
 
 export const revenueData: ChartData[] = [
-  { name: 'Jan', revenue: 186000, users: 4000, conversions: 2400 },
-  { name: 'Feb', revenue: 205000, users: 3800, conversions: 2210 },
-  { name: 'Mar', revenue: 237000, users: 4200, conversions: 2800 },
-  { name: 'Apr', revenue: 273000, users: 4600, conversions: 3200 },
-  { name: 'May', revenue: 209000, users: 4100, conversions: 2650 },
-  { name: 'Jun', revenue: 314000, users: 5200, conversions: 3800 },
-  { name: 'Jul', revenue: 356000, users: 5800, conversions: 4200 },
-  { name: 'Aug', revenue: 298000, users: 5100, conversions: 3600 },
-  { name: 'Sep', revenue: 387000, users: 6200, conversions: 4800 },
-  { name: 'Oct', revenue: 421000, users: 6800, conversions: 5200 },
-  { name: 'Nov', revenue: 378000, users: 6100, conversions: 4600 },
-  { name: 'Dec', revenue: 456000, users: 7200, conversions: 5800 }
+  { name: 'Jan', revenue: 186000, users: 4000, conversions: 2400, value: 0 },
+  { name: 'Feb', revenue: 205000, users: 3800, conversions: 2210, value: 0 },
+  { name: 'Mar', revenue: 237000, users: 4200, conversions: 2800, value: 0 },
+  { name: 'Apr', revenue: 273000, users: 4600, conversions: 3200, value: 0 },
+  { name: 'May', revenue: 209000, users: 4100, conversions: 2650, value: 0 },
+  { name: 'Jun', revenue: 314000, users: 5200, conversions: 3800, value: 0 },
+  { name: 'Jul', revenue: 356000, users: 5800, conversions: 4200, value: 0 },
+  { name: 'Aug', revenue: 298000, users: 5100, conversions: 3600, value: 0 },
+  { name: 'Sep', revenue: 387000, users: 6200, conversions: 4800, value: 0 },
+  { name: 'Oct', revenue: 421000, users: 6800, conversions: 5200, value: 0 },
+  { name: 'Nov', revenue: 378000, users: 6100, conversions: 4600, value: 0 },
+  { name: 'Dec', revenue: 456000, users: 7200, conversions: 5800, value: 0 }
 ];
 
 export const channelData: ChartData[] = [
