@@ -1,0 +1,7 @@
+{
+  "/dashboard/campaigns/page": "app/dashboard/campaigns/page.js",
+  "/dashboard/analytics/page": "app/dashboard/analytics/page.js",
+  "/dashboard/audience/page": "app/dashboard/audience/page.js",
+  "/dashboard/overview/page": "app/dashboard/overview/page.js",
+  "/dashboard/integrations/page": "app/dashboard/integrations/page.js"
+}
