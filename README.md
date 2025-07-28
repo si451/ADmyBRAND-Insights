@@ -54,10 +54,7 @@ This project is ready for deployment on [Vercel](https://vercel.com/) or any pla
 
 Contributions are welcome! Please open issues or pull requests for new features, bug fixes, or suggestions.
 
-## License
 
-[MIT](LICENSE)
 
 ---
 
-© 2024 ADmyBRAND Insights. Powered by AI Analytics. 
