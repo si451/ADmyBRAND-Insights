@@ -42,7 +42,7 @@ export default function Dashboard() {
               animate={{ opacity: 1, y: 0 }}
               className="mb-8"
             >
-              <h2 className="text-3xl font-extrabold font-orbitron mb-4 tracking-tight">Welcome back, Alex</h2>
+              <h2 className="text-3xl font-extrabold font-orbitron mb-4 tracking-tight">Welcome</h2>
               <p className="text-lg text-foreground font-medium mb-8 leading-relaxed">Here's what's happening with your campaigns today.</p>
             </motion.div>
 
